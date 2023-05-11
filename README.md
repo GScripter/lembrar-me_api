@@ -1,7 +1,7 @@
-<img src="https://img.shields.io/github/license/GabrielSantos198/LEMBRAR-ME_BACK-END?color=blue&style=for-the-badge" alt=""> <img src="https://img.shields.io/github/repo-size/GabrielSantos198/LEMBRAR-ME_BACK-END?style=for-the-badge" alt=""> <img src="https://img.shields.io/github/languages/count/GabrielSantos198/LEMBRAR-ME_BACK-END?style=for-the-badge" alt=""> <img src="https://img.shields.io/github/issues/GabrielSantos198/LEMBRAR-ME_BACK-END?color=blue&style=for-the-badge" alt=""> <img src="https://img.shields.io/github/issues-pr/GabrielSantos198/LEMBRAR-ME_BACK-END?color=blue&style=for-the-badge" alt=""> <img src="https://img.shields.io/github/stars/GabrielSantos198/LEMBRAR-ME_BACK-END?color=blue&style=for-the-badge" alt="">
+<img src="https://img.shields.io/github/license/GScripter/lembrar-me_api?color=blue&style=for-the-badge" alt=""> <img src="https://img.shields.io/github/repo-size/GabrielSantos198/LEMBRAR-ME_BACK-END?style=for-the-badge" alt=""> <img src="https://img.shields.io/github/languages/count/GabrielSantos198/LEMBRAR-ME_BACK-END?style=for-the-badge" alt=""> <img src="https://img.shields.io/github/issues/GabrielSantos198/LEMBRAR-ME_BACK-END?color=blue&style=for-the-badge" alt=""> <img src="https://img.shields.io/github/issues-pr/GabrielSantos198/LEMBRAR-ME_BACK-END?color=blue&style=for-the-badge" alt=""> <img src="https://img.shields.io/github/stars/GabrielSantos198/LEMBRAR-ME_BACK-END?color=blue&style=for-the-badge" alt="">
 
 <p align="center">
-<img src="https://gabrielsantos198.github.io/LEMBRAR-ME_FRONT-END/imgs/computer.jpg" width=300px alt="">
+<img src="https://GScripter.github.io/LEMBRAR-ME_FRONT-END/imgs/computer.jpg" width=300px alt="">
 </p>
 
 <h1 align="center"> ⭐ LEMBRAR-ME API </h1>
@@ -57,7 +57,7 @@ DELETE | /delete/annotation/{id}/ | Delete annotation
 - docker-compose
 - git
 
-<h4>Step-1</h4> <code>git clone link https://github.com/GabrielSantos198/LEMBRAR-ME_BACK-END/</code>
+<h4>Step-1</h4> <code>git clone link https://github.com/GScripter/lembrar-me_api/</code>
 
 <h4>Step-2</h4> Change the values of environment variables in the docker-compose.yml.<br/><br/>
 
